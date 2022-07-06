@@ -1,7 +1,7 @@
 ## Heiii sou Victor Gabriel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🐱‍🏍 Atualmente estudando programação ...
+- 🤳 TI desde 2019 ...
 
 <div>
   <a href="https://github.com/vic12tor">
@@ -28,4 +28,3 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/vic12tor/vic12tor/blob/output/github-contribution-grid-snake.svg)
